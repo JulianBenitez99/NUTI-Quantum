@@ -78,7 +78,7 @@ By using the `FidelityQuantumKernel` class we can only use the second option, so
 * `Support vector regression (SVR)`
 * `Ridge regression`
 * `Gaussian process regression (GPR)`
-* `Princial component analysis (PCA)`
+* `Principal component analysis (PCA)`
 
 # License
 [GNU GENERAL PUBLIC LICENSE](./LICENSE.MD)
