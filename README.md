@@ -7,7 +7,7 @@
 
 # Quantum Kernel Machine Learning
 # Video
-PLACEHOLDER
+[![Watch the video](https://img.youtube.com/vi/6vvKlAMQlXg/hqdefault.jpg)](https://youtu.be/6vvKlAMQlXg)
 
 # Report
 
